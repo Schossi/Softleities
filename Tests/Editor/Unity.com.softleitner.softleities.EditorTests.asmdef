@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.softleitner.softleities.Editor.Tests",
+  "references": [
+    "Unity.com.softleitner.softleities"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
