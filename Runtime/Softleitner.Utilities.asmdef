@@ -1,9 +1,8 @@
 {
-    "name": "Unity.com.softleitner.softleities.Editor",
+    "name": "Softleitner.Utilities",
+    "rootNamespace": "Softleitner.Utilities",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
