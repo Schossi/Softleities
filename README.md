@@ -24,6 +24,11 @@ The window can be sorted by any of the fields. Click an entry to ping the compon
 - Click + and select ___Add package from git URL...___
 - Enter __https://github.com/Schossi/Softleities.git__
 
+## Development
+
+- Create a new project using Unity 2022.3
+- Place Softleities Repo inside Assets folder
+
 ## License
 
 MIT License
