@@ -1,8 +1,8 @@
 {
-  "name": "com.softleitner.softleities",
-  "displayName": "SoftLeitner - Softleities",
+  "name": "com.softleitner.utilities",
+  "displayName": "SoftLeitner - Utilities",
   "version": "0.0.0",
-  "unity": "2022.3.28f",
+  "unity": "2022.3",
   "description": "Softleitner Utilities for Unity",
   "keywords": [
     "unity",
